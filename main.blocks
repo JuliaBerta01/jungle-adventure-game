@@ -1,0 +1,18 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="I9q!jqs_$-yc?W`uwW7w">mySprite</variable><variable type="KIND_SpriteKind" id="atR`?IF2,ovZ}.adX*%e">Player</variable><variable type="KIND_SpriteKind" id="bRZ!pX`DSK.1xy+du5Jz">Projectile</variable><variable type="KIND_SpriteKind" id="pK#b)gb!iR#7i)l4@AI[">Food</variable><variable type="KIND_SpriteKind" id="a_M}b8+U:[BMd?U.-x(w">Enemy</variable></variables><block type="pxt-on-start" id="10y/TJ]QtDXc.`Bu6/qo" x="0" y="0"><statement name="HANDLER"><block type="set_current_tilemap" id="P1+A(i)S@Hwsoaet3h8S"><value name="tilemap"><shadow type="tiles_tilemap_editor" id="tIK8qy|9saa4{$ne:V6M"><field name="tilemap">tilemap`level2`</field><data>{"commentRefs":[],"fieldData":{"tilemap":"level2"}}</data></shadow></value><next><block type="variables_set" id="fMfTHbU8cGSX}~iVz]Mi"><field name="VAR" id="I9q!jqs_$-yc?W`uwW7w">mySprite</field><value name="VALUE"><shadow type="math_number" id="1/Yo1k+$;Eb`N3,m`bUh"><field name="NUM">0</field></shadow><block type="spritescreate" id="fYlEC;v#A|WHHAMpFy%r"><value name="img"><shadow type="screen_image_picker" id="?WlerCU`RPoc+84PEDkw"><field name="img">img`
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+`</field><data>{"commentRefs":[],"fieldData":{"img":null}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="//Vgs1*aEsjS^;Q^0$`6"><field name="MEMBER">Player</field></shadow></value></block></value></block></next></block></statement></block><block type="camerafollow" id=":A1z|D%ug/3g{lCT$A:|" disabled-reasons="ORPHANED_BLOCK,MANUALLY_DISABLED" x="610" y="281"><value name="sprite"><block type="variables_get" id="s){q@E{TZHk{a,A!t{I{" disabled-reasons="MANUALLY_DISABLED"><field name="VAR" id="I9q!jqs_$-yc?W`uwW7w">mySprite</field></block></value></block></xml>
