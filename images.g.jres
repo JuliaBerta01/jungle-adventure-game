@@ -1,0 +1,12 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAABARPQPAAAAAERE9P4Q/wAARERE5B/9AEBERETk/v8AQOTuROT+8fVETkRO5P7x9URORE7k/kEFRE5ETuT+QQVETkRO5P7x9UTk7kTk/vH1QEREROT+/wBARERE7h/9AABERET+EP8AAEBE9A8AAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "chico"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
